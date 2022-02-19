@@ -1,0 +1,41 @@
+- class_name: 友情链接
+  class_desc: 玩转LaTeX
+  link_list:
+    - name: 无锤乙醇
+      link: https://syvshc.github.io/
+      avatar: https://syvshc.github.io/img/avatar/pear.png
+    - name: xkwxdyy
+      link: https://xkwxdyy.github.io/
+      avatar: https://xkwxdyy.github.io/img/xdyylogo-real.png
+    - name: muzimuzhi
+      link: https://zhuanlan.zhihu.com/typography-and-latex/
+      avatar: https://pic3.zhimg.com/v2-60b88ac4e5c3904e4b532d051e68e81a_xl.jpg
+    - name: Liam
+      link: https://liam.page/
+      avatar: https://liam.page/images/avatar/avatar.webp
+    - name: Alan Xiang
+      link: https://www.alanshawn.com/
+      avatar: https://www.alanshawn.com/site_logo.jpg
+
+- class_name: 博客
+  class_desc: 一些有用的博客
+  link_list:
+    - name: Akilar の糖果屋
+      link: https://akilar.top/
+      avatar: https://npm.elemecdn.com/akilar-candyassets/image/siteicon/favicon.png
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: Youtube
+      link: https://www.youtube.com/
+      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+      descr: 视频网站
+    - name: LaTeX工作室
+      link: https://www.latexstudio.net/
+      avatar: https://www.latexstudio.net/assets/img/logo.png
+      descr: 国内的LaTeX资源网站
+    - name: TeX.se
+      link: https://tex.stackexchange.com/
+      avatar: https://cdn.sstatic.net/Sites/tex/Img/apple-touch-icon.png?v=0a90e8f91d4c
+      descr: 最大的LaTeX交流平台，国外网站
+
