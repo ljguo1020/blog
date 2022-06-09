@@ -6,7 +6,7 @@ katex: true
 
 ## 听一首《起风了》？我最喜欢的歌？
 
-{% aplayer "起风了" "买辣椒也用券" " https://sharefs.ali.kugou.com/202202182120/169119c25e290aa838693438974441a3/KGTX/CLTX001/eb30fa0b0712a2c44a41d70188d909f9.mp3" "https://p3fx.kgimg.com/stdmusic/240/20220119/20220119171002204341.jpg"  %}
+{% aplayer "起风了" "买辣椒也用券" " https://sharefs.ali.kugou.com/202202201456/825dcf8f00980badcbb85a802e772a12/KGTX/CLTX001/eb30fa0b0712a2c44a41d70188d909f9.mp3" "https://p3fx.kgimg.com/stdmusic/240/20220119/20220119171002204341.jpg"  %}
 
 ## 我是一个坏蛋？
 

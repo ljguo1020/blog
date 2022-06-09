@@ -15,7 +15,7 @@ cover: /img/main.jpg
 
 在群里有老师想要实现如下的一个答案统计效果
 
-![](https://raw.githubusercontent.com/ljguo1020/Images/main/img/QQ%E6%88%AA%E5%9B%BE20220217123653.png)
+![](https://ljguo-1308058910.cos.ap-nanjing.myqcloud.com//img/QQ截图20220217123653.png)
 
 这本来是 ```exam``` 文档类提供的一个功能，奈何有些老师不想使用这个文类，我们只好造一个轮子
 
@@ -268,7 +268,7 @@ regex_count:nVN{A} \__answer_list_seq \__choice_amount_int
 
 ## 输出结果
 
-![](https://raw.githubusercontent.com/ljguo1020/Images/main/img/QQ%E6%88%AA%E5%9B%BE20220217130337.png)
+![](https://ljguo-1308058910.cos.ap-nanjing.myqcloud.com//img/QQ截图20220217130337.png)
 
 ## 样式加强
 
@@ -276,7 +276,7 @@ regex_count:nVN{A} \__answer_list_seq \__choice_amount_int
 
 效果图如下
 
-![](https://raw.githubusercontent.com/ljguo1020/Images/main/img/QQ%E6%88%AA%E5%9B%BE20220217132609.png)
+![](https://ljguo-1308058910.cos.ap-nanjing.myqcloud.com//img/QQ截图20220217132609.png)
 
 我们修改一下 ```\answerlists``` 命令
 
